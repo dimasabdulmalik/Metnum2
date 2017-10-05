@@ -1,0 +1,4 @@
+Urutan
+1. input
+2. simpan
+3. hitung
